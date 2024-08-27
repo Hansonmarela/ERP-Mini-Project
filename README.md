@@ -21,6 +21,7 @@ This project involves the design and development of a comprehensive ERP (Enterpr
 
 ## Design
 The UI of the ERP system was designed using Figma, focusing on ease of use and clear navigation. The design files and screenshots are included in the repository under the `Design/` directory.
+Link to Figma project>>  https://www.figma.com/design/wPREJ3A4kaCvbjzF0S8qnL/MINI-ERP-UENR-PROJECT?node-id=0-1&t=QbNtpElgGQpF8nir-1
 
 ## Documentation
 Detailed documentation outlining the system architecture, modules, and functionalities is provided in the `Documentation/` directory. This includes:
