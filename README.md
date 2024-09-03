@@ -25,6 +25,6 @@ Link to Figma project>>  https://www.figma.com/design/wPREJ3A4kaCvbjzF0S8qnL/MIN
 
 ## Documentation
 Detailed documentation outlining the system architecture, modules, and functionalities is provided in the `Documentation/` directory. This includes:
-- **System Design Document**: [Link to PDF](Documentation/System_Design_Document.pdf)
-- **Implementation Plan**: [Link to PDF](Documentation/Implementation_Plan.pdf)
+- **System Design Document**
+- **Implementation Plan**
 
